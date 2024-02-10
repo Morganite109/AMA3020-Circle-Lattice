@@ -16,4 +16,6 @@ Code to make diagram: 3d (1).py
 
 Code to produce graphs: https://colab.research.google.com/drive/1voDAREynEfdOjIW3rVV-JeFbLUdl9BQY?usp=sharing
 
-Equation Example: 
+Equation Example: Investigations___Circle_Lattice_Example.pdf
+
+
