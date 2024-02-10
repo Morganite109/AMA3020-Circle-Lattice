@@ -1,6 +1,6 @@
 # AMA3020-Circle-Lattice
 
-Supplementary Material:
+**Supplementary Material**
 
 Circle Diagram: 16pts.pdf/16pts.png
 
